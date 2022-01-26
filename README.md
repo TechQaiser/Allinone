@@ -1,6 +1,6 @@
-#ALLINONE COMMAND
+# ALLINONE COMMAND
 
-#Use
+# Use
 '''
 git clone https://github.com/TechQaiser/Allinone
 
@@ -10,7 +10,7 @@ python2 Allinone.py
 
 '''
 
-##DISCALIMER
+## DISCALIMER
 '''
 I AM NOT RESPONSIBLE FOR ANY MISS USE 
 '''
